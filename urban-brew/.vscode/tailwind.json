@@ -1,0 +1,55 @@
+{
+  "version": 1.1,
+  "atDirectives": [
+    {
+      "name": "@theme",
+      "description": "Tailwind CSS v4: Define custom design tokens (colors, fonts, spacing, etc.) that map to CSS custom properties and can be used with utility classes.",
+      "references": [
+        {
+          "name": "Tailwind CSS v4 Theme Configuration",
+          "url": "https://tailwindcss.com/docs/theme"
+        }
+      ]
+    },
+    {
+      "name": "@source",
+      "description": "Tailwind CSS v4: Specify additional content paths for Tailwind to scan for class usage.",
+      "references": [
+        {
+          "name": "Tailwind CSS v4 Sources",
+          "url": "https://tailwindcss.com/docs/detecting-classes-in-source-files"
+        }
+      ]
+    },
+    {
+      "name": "@utility",
+      "description": "Tailwind CSS v4: Define a custom utility class.",
+      "references": [
+        {
+          "name": "Tailwind CSS v4 Custom Utilities",
+          "url": "https://tailwindcss.com/docs/adding-custom-styles"
+        }
+      ]
+    },
+    {
+      "name": "@variant",
+      "description": "Tailwind CSS v4: Define a custom variant.",
+      "references": [
+        {
+          "name": "Tailwind CSS v4 Custom Variants",
+          "url": "https://tailwindcss.com/docs/adding-custom-styles"
+        }
+      ]
+    },
+    {
+      "name": "@plugin",
+      "description": "Tailwind CSS v4: Load a Tailwind CSS plugin.",
+      "references": [
+        {
+          "name": "Tailwind CSS v4 Plugins",
+          "url": "https://tailwindcss.com/docs/plugins"
+        }
+      ]
+    }
+  ]
+}
